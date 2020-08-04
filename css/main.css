@@ -6,7 +6,8 @@ body {
     line-height: 30px;
    padding: 0px;
    margin:0px;
-   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfg5GyVXRLvJwylLD0DUe426EsPezAVlub4A&usqp=CAU);
+   background: url(https://cdn.mos.cms.futurecdn.net/BzWbAhUS4WYN6WTXQdGCdi-1200-80.jpg);
+   background-size: cover;
 }
 .main-container{
   font-family:'opensans-regular',sans-serif;
@@ -15,7 +16,7 @@ body {
   color:white;
   padding-top: 200px;
   //background-color:powderblue;
-  background-repeat: no-repeat;
+  //background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -117,4 +118,7 @@ color:white;
   padding-bottom:90px;
   font-size:20px;
 
+}
+.img{
+  height: 100%;
 }
